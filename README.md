@@ -9,6 +9,12 @@
   <a href="mailto:manojdkamat@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://x.com/manojkamat" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="https://bsky.app/profile/manojdkamat.bsky.social" target="_blank">
+    <img src="https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white" />
+  </a>
 </p>
 
 ---
